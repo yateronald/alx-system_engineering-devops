@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 555 $(pwd)/../
+chmod -R 755 *  $(pwd)/../
