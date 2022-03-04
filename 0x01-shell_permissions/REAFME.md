@@ -1,0 +1,1 @@
+Growth mindset and Grit are the keys of successed 
