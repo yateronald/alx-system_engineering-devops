@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R g+rx *
+find $(pwd)/../ -type d -exec chmod -R 755 {} \;
