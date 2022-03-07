@@ -1,2 +1,2 @@
 #!/bin/bash
-sed 14p iacta && printf '\n'
+cat iacta && awk 'END{print}' iacta
