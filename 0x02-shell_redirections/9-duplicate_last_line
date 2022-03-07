@@ -1,2 +1,2 @@
 #!/bin/bash
-sed 14p iacta
+sed 14p iacta && printf '\n'
