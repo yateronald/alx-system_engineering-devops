@@ -1,0 +1,1 @@
+variable , alias in bash language
