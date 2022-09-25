@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-# Sniffs a packet over an unencrypted connection for plaintext passwords.
-telnet smtp.sendgrid.net 587
+# Sniffs a packet over an unencrypted connection for plaintext pass
+mypassword9898!
